@@ -7,7 +7,7 @@ import { ContatoService } from './contato.service';
 
 @Component({
     moduleId: module.id,
-    selector: 'contato´detalhe',
+    selector: 'contato-detalhe',
     templateUrl: 'contato-detalhe.component.html',
     styleUrls: [
         'contato-detalhe.component.css'
